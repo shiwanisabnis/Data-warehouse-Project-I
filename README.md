@@ -1,2 +1,4 @@
 # Data-warehouse-Project-I
 Data modelling for Papa John’s Pizza model included designing of EERD Conceptual, Logical and Physical Model. Identified all Functional Dependencies over the given case study. Tools used - diagram.net, Oracle SQL
+
+Papajon’s Pizza is a pizza restaurant chain where customers can choose the varieties of pizza base and the topping(s) with an ‘eat in’ and ‘home delivery’ service from several outlets. The recent lockdowns made an impact on the business and revenue for ‘eat in’ was decreased whereas the revenue for ‘home delivery’ services got increased. With the current scenario, company’s management wish to organise and make home delivery services more efficient. We as a part of IT team have taken the responsibilities to design a data model to process and monitor the requirement mentioned in the case study.
